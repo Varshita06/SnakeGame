@@ -31,7 +31,7 @@ A retro-style Snake Game built with **Pygame** 🕽️, featuring:
 
 ```bash
 pip install -r requirements.txt
-python src/main.py
+python source/Game.py
 ```
 
 ## 📂 File Structure
