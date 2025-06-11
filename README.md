@@ -11,7 +11,7 @@ A retro-style Snake Game built with **Pygame** 🕽️, featuring:
 
 ## 🎮 Gameplay Screenshot
 
-![Snake Game Screenshot](utilities/gameplay.jpg)
+![Snake Game Screenshot](utilities/gameplay.png)
 
 ## 🧠 Features
 
