@@ -11,7 +11,7 @@ A retro-style Snake Game built with **Pygame** 🕽️, featuring:
 
 ## 🎮 Gameplay Screenshot
 
-![Snake Game Screenshot](assets/start_bg.jpg)
+![Snake Game Screenshot](utilities/gameplay.jpg)
 
 ## 🧠 Features
 
@@ -39,24 +39,21 @@ python src/main.py
 
 ```
 snake-game/
-├── assets/              # Images and sounds
+├── utilities/              # Images and sounds
 │   ├── food.mp3
 │   ├── gameover.wav
 │   └── start_bg.jpg
-├── src/                 # Game source code
-│   ├── main.py
-│   ├── screen_utils.py
+├── source/                 # Game source code
+│   ├── Game.py
+│   ├── Display.py
 │   ├── constants.py
 │   ├── snake_logic.py
-│   ├── start_screen.py
-│   └── sounds.py
+│   └── Start_screen.py
+│
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└──  requirements.txt
 ```
 
 ## 👩‍💻 Author
 
 **Sai Varshita Morisetty**
-🔗 [LinkedIn](https://www.linkedin.com/in/varshita06/)
-📧 [morisetty.varshita@email.com](mailto:morisetty.varshita@email.com)
